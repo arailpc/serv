@@ -16,4 +16,3 @@ const environmentForExport =
   typeof environments[currentEnvironment] === "object" ? environments[currentEnvironment] : environments.development;
 
 module.exports = environmentForExport;
-hvv
