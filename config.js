@@ -6,7 +6,7 @@ environments.production = {
 };
 
 environments.development = {
-  port: 3000,
+  port: 3002,
   nameEnv: "development"
 };
 
